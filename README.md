@@ -1,5 +1,6 @@
+<h1>Hi 👋 I'm Aqeeb Aamir</h1>
 # 💫 About Me:
-<h1>Hi 👋 I'm Aqeeb Aamir</h1><br><br><h3>🚀 About Me</h3><br><ul><br>  <li>💻 I'm currently working on <b>Front-end web developer</b></li><br>  <li>🌱 I'm currently learning <b>back end developer</b></li><br></ul><br>
+💻 I'm currently working on Front-end web developer<br>🌱 I'm currently learning back end developer
 
 
 ## 🌐 Socials:
